@@ -187,8 +187,8 @@ docker compose version
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/irctc-backend.git
-cd irctc-backend
+git clone https://github.com/RamanPathak-a11y/Microservices-Railway-Booking-System.git
+cd Microservices-Railway-Booking-System
 ```
 
 #### 2. Start the infrastructure stack
