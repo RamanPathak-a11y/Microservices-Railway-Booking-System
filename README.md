@@ -725,7 +725,7 @@ VITE_API_BASE_URL=/api
 ## 📁 Project Structure
 
 ```
-irctc-backend/
+Microservices-Railway-Booking-System/
 ├── api-gateway/           # Port 4000 — entry point, JWT, rate-limit, circuit breaker
 ├── user-service/          # Port 4001 — auth, OTP, JWT, profile (Postgres + Redis)
 ├── search-service/        # Port 4002 — Elasticsearch-backed train/station search
