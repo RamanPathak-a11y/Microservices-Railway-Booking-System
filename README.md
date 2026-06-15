@@ -1,4 +1,4 @@
-# 🚆 IRCTC Backend - Microservices Architecture
+# 🚆 Railway Booking System- Microservices Architecture
 
 > A production-grade microservices-based railway booking system backend, built for learning and demonstrating enterprise architecture patterns.
 
@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-This project demonstrates a complete microservices architecture for a railway booking system (IRCTC clone), covering:
+This project demonstrates a complete microservices architecture for a railway booking system, covering:
 
 - **Microservices Design Patterns** — Database-per-service, API Gateway, Saga
 - **Inter-Service Communication** — REST (sync) and Kafka (async/event-driven)
